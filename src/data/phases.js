@@ -1,0 +1,42 @@
+export const PHASES = [
+  {
+    id: "tremor",
+    name: "The Tremor",
+    number: 1,
+    color: "#6B8E23",
+    description: "A new capability emerges in crude form, visible only to a small community.",
+    signature: "Collective indifference punctuated by obsessive experimentation.",
+  },
+  {
+    id: "fever",
+    name: "The Fever",
+    number: 2,
+    color: "#DAA520",
+    description: "Speculative energy floods in. Promises wildly outpace delivery.",
+    signature: "Euphoria, over-investment, messianic rhetoric.",
+  },
+  {
+    id: "collision",
+    name: "The Collision",
+    number: 3,
+    color: "#CD5C5C",
+    description: "Jobs destroyed. Power structures threatened. The longest and most painful phase.",
+    signature: "Fear, anger, resistance, moral panic.",
+  },
+  {
+    id: "negotiation",
+    name: "The Negotiation",
+    number: 4,
+    color: "#4682B4",
+    description: "New laws, institutions, norms emerge. Guardrails built decades late.",
+    signature: "Pragmatism, coalition-building, institutional innovation.",
+  },
+  {
+    id: "newNormal",
+    name: "The New Normal",
+    number: 5,
+    color: "#708090",
+    description: "Technology becomes invisible infrastructure. Society forgets the disruption.",
+    signature: "Normalization, nostalgia, amnesia.",
+  },
+];
